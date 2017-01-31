@@ -1,1 +1,12 @@
-{"category": "bioinformatics", "name": "nemo", "input_format": "ini", "language": "python", "command": "../../../../apps/nemo/nemo", "postprocess": null, "preprocess": "Nemo2.ini", "assets": [ "Nemo2-manual.pdf" ], "plots": [], "description": "Nemo is a forward-time, individual-based, genetically explicit, and stochastic simulation program designed to study the evolution of life history/phenotypic traits and population genetics in a flexible (meta-)population framework. "}
+{
+ "category": "bioinformatics", 
+ "name": "nemo", 
+ "input_format": "ini", 
+ "language": "python", 
+ "command": "../../../../apps/nemo/nemo", 
+ "postprocess": null, 
+ "preprocess": "Nemo2.ini", 
+ "assets": [ "Nemo2-manual.pdf" ], 
+ "plots": [{"datasource": [{"data_def": "{label: \"data\", data: d1, lines: { show: true }, color: \"rgb(200,0,0)\"}", "cols": "1:54", "line_range": "2:10000", "filename": "<root_dir>/<stat_dir>/<filename>-1_bygen.txt"}], "options": "legend: { position: \"nw\"}, xaxis: { axisLabel: \"x\"}, yaxis: { axisLabel: \"y\"}", "ptype": "flot-line", "title": "basic"}], 
+ "description": "Nemo is a forward-time, individual-based, genetically explicit, and stochastic simulation program designed to study the evolution of life history/phenotypic traits and population genetics in a flexible (meta-)population framework. "
+}
