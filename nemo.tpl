@@ -12,7 +12,7 @@
 <input type="hidden" name="cid" value="{{cid}}">
 %end
 
-<a href="/static/apps/nemo/Nemo2-manual.pdf" class="help btn btn-info" target="status">help</a>
+<a href="/static/apps/nemo/Nemo2-manual.pdf" class="help btn btn-info" target="status"><span class="glyphicon glyphicon-question-sign"></span></a>
 
 <div class="col-xs-12" style="height:5px"></div>
 <div class="col-xs-12 visible-xs" style="height:5px"></div>
