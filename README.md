@@ -10,4 +10,5 @@ Nemo uses the GNU Scientific Library, install on Ubuntu with the following comma
 sudo apt-get install libgsl0-dev
 
 # to install package to SPC
-./spc install https://github.com/whbrewer/nemo-linux-32/archive/master.zip
+
+    ./spc install https://github.com/whbrewer/nemo-linux-32/archive/master.zip
