@@ -304,6 +304,13 @@
 		</div>
 	</div>
 	<div class="form-group">
+		<label for="stat_log_time" class="control-label col-xs-6">
+			stat:</label>
+		<div class="col-xs-12 col-sm-6">
+			<input type="text" class="form-control" name="stat" value="{{stat}}"/>
+		</div>
+	</div>
+	<div class="form-group">
 		<label for="stat_dir" class="control-label col-xs-6">
 			stat_dir:</label>
 		<div class="col-xs-12 col-sm-6">
