@@ -1,4 +1,4 @@
-# nemo-linux-32
+# nemo-spc
 Binary packaged version of Nemo2 for use with SPC
 
 # installation
