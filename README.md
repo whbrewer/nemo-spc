@@ -1,5 +1,5 @@
 # nemo-spc
-Binary packaged version of Nemo2 for use with SPC
+Package for installing Nemo2 on SPC
 
 ## install nemo 
 Download and compile Nemo from here:
